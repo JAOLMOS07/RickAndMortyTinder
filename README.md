@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Rick andMorty App
+Se intentó ser un poco mas dinamico utilizando la api, ahora los personajes saldrán aleatoriamente y los podemos elegir, de esta manera los mandamos a una lista de likes o dislikes, en la lista de likes podemos ver toda su información y en la lista de dislikes podremos redimirlos para poder volver a elegirlos
+
+el mapa permite poner un marcador sobre valledupar y bogotá, toca reinciar la pagina al entar a ese componente.
 ## Getting Started
 
 First, run the development server:
@@ -34,3 +38,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
